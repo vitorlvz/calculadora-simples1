@@ -1,0 +1,3 @@
+Este é um dos meus primeiros projetos como estudante do curso de Análise de Dados. Meu nome é Vitor Luviza e estou dando meus primeiros passos na programação com Python.
+
+O script é uma calculadora simples em Python que realiza as quatro operações básicas: adição, subtração, multiplicação e divisão. O usuário informa dois números e escolhe a operação desejada. Após mostrar o resultado, o programa pergunta se o usuário deseja calcular novamente, repetindo o processo até que ele responda "não".
